@@ -6,3 +6,7 @@ var email = "maria@email.com"
 var age = 30
 var userId = 2563
 
+// BOOLEANS
+var livesInArgentine = true
+var hasPets = true
+
